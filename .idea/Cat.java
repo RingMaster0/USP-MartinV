@@ -1,3 +1,3 @@
 public class Cat {
-    int age = 1;
+    public String name;
 }
